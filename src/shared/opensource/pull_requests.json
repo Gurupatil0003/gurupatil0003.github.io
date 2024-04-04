@@ -4,7 +4,7 @@
     {
       "id": "MDExOlB1bGxSZXF1ZXN0NDA5NDQxNDk1",
       "title": "Migrated some files from TF 1.0 to 2.0",
-      "url": "https://github.com/tensorflow/addons/pull/1746",
+      "url": "https://github.com/Gurupatil0003/Parul_University_Python/pulls",
       "state": "OPEN",
       "mergedBy": null,
       "createdAt": "2020-04-27T11:34:31Z",
@@ -13,8 +13,8 @@
       "additions": 1,
       "deletions": 6,
       "baseRepository": {
-        "name": "addons",
-        "url": "https://github.com/tensorflow/addons",
+        "name": "Parul_University_Python",
+        "url": "https://github.com/Gurupatil0003/Parul_University_Python/pulls",
         "owner": {
           "avatarUrl": "https://avatars.githubusercontent.com/u/15658638?v=4",
           "login": "tensorflow",

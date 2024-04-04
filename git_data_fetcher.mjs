@@ -5,14 +5,14 @@ import dotenv from "dotenv";
 dotenv.config();
 
 const openSource = {
-  githubConvertedToken: process.env.GITHUB_TOKEN,
-  githubUserName: process.env.GITHUB_USERNAME,
+  githubConvertedToken: process.env.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,
+  githubUserName: process.env.Gurupatil0003,
 };
 
 const query_pr = {
   query: `
 	query {
-	  user(login: "${openSource.githubUserName}"){
+	  user(login: "${openSource.Gurupatil0003}"){
 	    pullRequests(last: 100, orderBy: {field: CREATED_AT, direction: DESC}){
       totalCount
       nodes{
@@ -49,7 +49,7 @@ const query_pr = {
 const query_issue = {
   query: `query{
 
-		user(login: "${openSource.githubUserName}") {
+		user(login: "${openSource.Gurupatil0003}") {
     issues(last: 100, orderBy: {field:CREATED_AT, direction: DESC}){
       totalCount
       nodes{
@@ -84,7 +84,7 @@ const query_issue = {
 
 const query_org = {
   query: `query{
-	user(login: "${openSource.githubUserName}") {
+	user(login: "${openSource.Gurupatil0003}") {
 	    repositoriesContributedTo(last: 100){
 	      totalCount
 	      nodes{
@@ -102,7 +102,7 @@ const query_org = {
 const query_pinned_projects = {
   query: `
 	query { 
-	  user(login: "${openSource.githubUserName}") { 
+	  user(login: "${openSource.Gurupatil0003}") { 
 	    pinnedItems(first: 6, types: REPOSITORY) {
 	      totalCount
 	      nodes{
@@ -130,7 +130,7 @@ const baseUrl = "https://api.github.com/graphql";
 
 const headers = {
   "Content-Type": "application/json",
-  Authorization: "bearer " + openSource.githubConvertedToken,
+  Authorization: "bearer " + openSource.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,
 };
 
 fetch(baseUrl, {

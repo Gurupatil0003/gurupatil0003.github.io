@@ -2,7 +2,7 @@
   "data": [
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
+      "name": "Python Full Stack Tutorial By Guru",
       "createdAt": "2020-03-06T16:26:54Z",
       "url": "https://github.com/ashutosh1919/masterPortfolio",
       "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
@@ -10,7 +10,7 @@
       "languages": [
         {
           "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "iconifyClass": "skill-icons:scikitlearn-light"
         },
         {
           "name": "CSS",
@@ -28,7 +28,7 @@
     },
     {
       "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
+      "name": "Student performance Analysis Using AI Virtual Game",
       "createdAt": "2022-03-13T20:41:33Z",
       "url": "https://github.com/ashutosh1919/explainable-cnn",
       "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
@@ -42,7 +42,7 @@
     },
     {
       "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
+      "name": "Insurance-Claim",
       "createdAt": "2022-02-11T14:50:20Z",
       "url": "https://github.com/ashutosh1919/react-awesome-shapes",
       "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
@@ -57,18 +57,30 @@
           "iconifyClass": "logos-css-3"
         },
         {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
+          "name": "MySql",
+          "iconifyClass": "logos:mysql"
         },
         {
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Generative AI",
+          "iconifyClass": "eos-icons:ai-healing"
+        },
+        {
+          "name": "Tensorflow",
+          "iconifyClass": "devicon:tensorflow"
+        },
+        {
+          "name": "spark",
+          "iconifyClass": "logos:apache-spark"
         }
       ]
     },
     {
       "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
+      "name": "Data Analysis Of Student Job Entry",
       "createdAt": "2021-11-26T17:56:07Z",
       "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
       "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
@@ -82,33 +94,69 @@
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk=",
-      "name": "react-awesome-loaders",
+      "name": "Flask-awesome",
       "createdAt": "2021-01-06T06:36:41Z",
       "url": "https://github.com/ashutosh1919/react-awesome-loaders",
       "description": "🚀  High quality, super responsive and completely customisable Loading Animations to insert into your website with single line of code.",
       "isFork": false,
       "languages": [
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "Flask",
+          "iconifyClass": "devicon:flask-wordmark"
+        },
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Matplotlib",
+          "iconifyClass": "logos:matplotlib-icon"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "Github and Vscode",
+          "iconifyClass": "devicon:githubcodespaces"
         }
       ]
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
+      "name": "Libararies_Hub",
       "createdAt": "2021-01-01T08:31:51Z",
       "url": "https://github.com/ashutosh1919/react-liquidswipe",
       "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
       "isFork": false,
       "languages": [
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "Pandas",
+          "iconifyClass": "devicon:pandas-wordmark"
         },
         {
           "name": "CSS",
           "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Numpy",
+          "iconifyClass": "devicon-plain:numpy-wordmark"
+        },
+        {
+          "name": "ALL-libraries",
+          "iconifyClass": "vscode-icons:file-type-plsql-package"
+        },
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
         }
       ]
     }
